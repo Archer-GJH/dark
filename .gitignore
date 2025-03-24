@@ -1,0 +1,11 @@
+# Hugo默认输出目录
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# macOS相关
+.DS_Store
+
+# 临时文件
+.hugo_build.lock 
